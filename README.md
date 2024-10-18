@@ -1,2 +1,2 @@
 # SQE-Assignment
-This is repo for SQE Assignment Project
+This is repo for SQE Assignment Project.
